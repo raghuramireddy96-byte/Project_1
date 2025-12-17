@@ -1,3 +1,6 @@
 print("SQL")
-print("Linux")
-print("java")
+
+x=10
+y=20
+
+print(x+y)
